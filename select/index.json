@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "だめにんげんだ!",
+  "base_artist": "薄塩指数",
+  "createdAt": "2026-01-04T13:19:01.280082Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "だめにんげんだ! (feat. 重音テト)",
+      "artist": "薄塩指数",
+      "has_synced": false,
+      "path": "select/01_だめにんげんだ!_(feat._重音テト)_薄塩指数.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "だめにんげんだ! (feat. 重音テト)",
+      "artist": "薄塩指数, 重音テト",
+      "has_synced": true,
+      "path": "select/02_だめにんげんだ!_(feat._重音テト)_薄塩指数,_重音テト.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "だめにんげんだ!",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/03_だめにんげんだ!_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "だめにんげんだ! (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/04_だめにんげんだ!_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "だめにんげんだ! (feat. 重音テト)",
+      "artist": "薄塩指数",
+      "has_synced": false,
+      "path": "select/pl_01_だめにんげんだ!_(feat._重音テト)_薄塩指数.txt"
+    }
+  ]
+}
